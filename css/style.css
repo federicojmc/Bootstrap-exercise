@@ -1,0 +1,32 @@
+body { 
+    display: flex; 
+    align-items: center; 
+    padding-top: 40px;
+    padding-bottom: 40px; 
+    background-color: #F5F5F5; } 
+    html, body { height: 100%; } 
+
+    .form-container { 
+        text-align: center; 
+        width: 100%; 
+        max-width: 330px; 
+        padding: 15px; 
+        margin: auto; 
+        background-color: #E2E2E2;; }
+        
+    .titulo-rojo{
+        color: red;
+        font-size: 40px;
+    }
+    .form-login button{
+margin: 20px 0; 
+    }
+    .my-button{
+        margin: 20xp 0;
+    }
+    .my-title {
+        margin-bottom: 25px;
+    }
+    #recuerdame {  
+        float: none;
+    }
